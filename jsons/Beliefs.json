@@ -305,7 +305,7 @@
                 "May buy [Cult of the Warrior] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
                 "May buy [Basic Pantheon] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>",
 //                "May buy [Religious Practice] buildings for [1] [Faith] [in capital] <before the [Renaissance era]>",
-                "New [Military] units start with [+5] Experience [in cities following this religion]"
+                "New [Military] units start with [5] XP [in cities following this religion]"
                 ]
   },
   {
@@ -630,7 +630,7 @@
      "type": "Founder",
      "uniques": [
                  "May buy [Cult of the Warrior] buildings for [10] [Faith] [in cities following this religion] at an increasing price ([5])",
-                 "New [Military] units start with [+5] Experience [in cities following this religion]"
+                 "New [Military] units start with [5] XP [in cities following this religion]"
                 ]
   },
   {
@@ -901,7 +901,7 @@
   {
      "name": "Guruship",
      "type": "Follower",
-     "uniques": ["[+2 Production] <in cities with at least [1] [Specialists]>"]
+     "uniques": ["[+2 Production] from every specialist [in this city]"]
   },
   {
      "name": "Holy Warriors",
@@ -1045,7 +1045,7 @@
   {
      "name": "Church Property",
      "type": "Follower",
-     "uniques": ["[+2 Gold][in all cities]"]
+     "uniques": ["[+2 Gold] [in all cities]"]
   },
 //Feel free to suggest ideas for more Follower Beliefs because I really want to bulk that section out some; such things should be narrow in scope
 //In the same way that the vanilla stuff that's currently the bulk of things is.
