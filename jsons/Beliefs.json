@@ -22,7 +22,8 @@
      "type": "Enhancer",
      "uniques": [
        "[+1 Gold, +1 Happiness, +1 Culture] from every [10] global followers [in all cities]"
-      "Earn [10]% of killed [All] unit's [Strength] as [Golden Age points]"
+      "Earn [10]% of killed [Military] unit's [Strength] as [Golden Age points]"
+  //    "Earn [100]% of killed [Barbarian] unit's [Strength] as [Culture]"
                 ]
   },
 
