@@ -17,6 +17,15 @@
       "Gain a free [Follower] belief"
                 ]
   },
+  {
+     "name": "Vampirismo Seguil",
+     "type": "Enhancer",
+     "uniques": [
+                "[+1 Gold, +1 Science, +1 Culture] from every [8] global followers [in all cities]"
+                ]
+  },
+
+  
 //Simple Set
   {
      "name": "Ancestor Worship",
