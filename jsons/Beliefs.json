@@ -8,7 +8,15 @@
 //      YOU NEED TO DO THE DUPLICATE TOO,     //
 //      OR UNCIV WILL STILL THROW A SNIT!     //
 ////////////////////////////////////////////////
-
+  {
+     "name": "Engaño Celestial", //
+     "type": "Founder",
+     "uniques": [
+      "Gain a free [Founder] belief"
+      "May choose [1] additional belief(s) of any type when [enhancing] a religion"
+      "Gain a free [Follower] belief"
+                ]
+  },
 //Simple Set
   {
      "name": "Ancestor Worship",
