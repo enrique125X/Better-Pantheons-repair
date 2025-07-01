@@ -874,6 +874,7 @@
      "cost": 1,
      "uniques": [
                 "Gain a free [Pantheon] belief",
+	        "Gain a free [Pantheon] belief <before founding a religion>"
                 "Limited to [2] per Civilization",
                 "Unbuildable", 
                 "Unsellable",//Is this the problem? LET'S FIND OUT!
@@ -995,34 +996,6 @@
                            ],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
-	}, 
-/* Religious building template 
-   {
-     "name": "Cathedral",
-     "cost": 0,
-     "faith": 1,
-     "culture": 3,
-     "happiness": 1,
-     "specialistSlots": {"Artist": 1},
-     "uniques": ["Unbuildable", "Only available <when religion is enabled>"]
-    },
-*/
-//Modified Palace with extra religion choices, so you'll always have them
-    {
-     "name": "Palace",
-     "isNationalWonder": true,
-     "production": 3,
-     "science": 3,
-     "gold": 3,
-     "culture": 1,
-     "cityStrength": 2,
-     "cost": 1,
-     "uniques": [
-                "May choose [2] additional [Founder] beliefs when [founding] a religion",
-                "May choose [1] additional [Enhancer] beliefs when [enhancing] a religion",
-                "May choose [2] additional belief(s) of any type when [enhancing] a religion",
-                "Indicates the capital city"
-                ]
-  }
+	}
 //Trying out new syntax to see if it works 
 ]
