@@ -21,7 +21,8 @@
      "name": "Vampirismo Seguil",
      "type": "Enhancer",
      "uniques": [
-                "[+1 Gold, +1 Science, +1 Culture] from every [8] global followers [in all cities]"
+       "[+1 Gold, +1 Happiness, +1 Culture] from every [10] global followers [in all cities]"
+      "Earn [10]% of killed [All] unit's [Strength] as [Golden Age points]"
                 ]
   },
 
